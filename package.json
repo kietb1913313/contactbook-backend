@@ -1,0 +1,27 @@
+{
+  "name": "contactbook_backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kietb1913313/contactbook-backend.git"
+  },
+  "author": "Trung Kiet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kietb1913313/contactbook-backend/issues"
+  },
+  "homepage": "https://github.com/kietb1913313/contactbook-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "description": ""
+}
